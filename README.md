@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Josh
 
-<!--
-**JoshElkind/JoshElkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a sophomore Computer Science student at the University of Waterloo passionate about **software development**, **robotics**, **artificial intelligence**, and **data science**. I enjoy building practical applications and experimental systems by combining algorithm design, machine learning, and scalable cloud architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m passionate about  
+- Artificial intelligence and machine learning  
+- Scalable distributed systems and cloud computing  
+- Concurrent and performant programming in Rust, Go, and Python  
+- Algorithm design and data science pipelines  
+
+---
+
+### 📫 How to reach me  
+- Email: [jdelkind@uwaterloo.ca](mailto:jdelkind@uwaterloo.ca)  
+- Portfolio: [joshuaelkind.com](https://joshuaelkind.com)
+
+---
+
+✨ Feel free to reach out if you want to chat about cool projects, new ideas, or just say hi!
+
