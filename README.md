@@ -8,7 +8,7 @@ I’m a sophomore Computer Science student at the University of Waterloo passion
 - Artificial intelligence and machine learning  
 - Scalable distributed systems and cloud computing  
 - Concurrent and performant programming in Rust, Go, and Python  
-- Algorithm design and data science pipelines  
+- Algorithm design and Database architecture  
 
 ---
 
