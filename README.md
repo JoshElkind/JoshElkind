@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Josh
 
-I’m a sophomore Computer Science student at the University of Waterloo passionate about **software development**, **robotics**, **artificial intelligence**, and **data science**. I enjoy building practical applications and experimental systems by combining algorithm design, machine learning, and scalable cloud architectures.
+I’m a sophomore Computer Science student at the University of Waterloo passionate about **software development**, **robotics**, **artificial intelligence**, and **distributed systems**. I enjoy building practical applications and experimental systems by combining algorithm design, machine learning, and scalable cloud architectures.
 
 ---
 
