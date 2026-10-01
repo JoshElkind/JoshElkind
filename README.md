@@ -18,4 +18,4 @@ I'm a Computer Science student at the University of Waterloo passionate about so
 
 ---
 
-Feel free to reach out if you want to chat about cool projects, new ideas, or just say hi!
+Feel free to reach out if you want to chat about cool projects
