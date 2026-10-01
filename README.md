@@ -17,5 +17,3 @@ I'm a Computer Science student at the University of Waterloo passionate about so
 - Portfolio: [joshuaelkind.com](https://joshuaelkind.com)
 
 ---
-
-Feel free to reach out if you want to chat about cool projects
