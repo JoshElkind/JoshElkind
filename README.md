@@ -1,5 +1,3 @@
-# I'm Josh
-
 I'm a Computer Science student at the University of Waterloo passionate about software development, distributed systems, and databases. I work on systems programming and database internals.
 
 ---
