@@ -1,14 +1,14 @@
-## Hi there 👋 I'm Josh
+# I'm Josh
 
-I’m a sophomore Computer Science student at the University of Waterloo passionate about **software development**, **robotics**, **artificial intelligence**, and **distributed systems**. I enjoy building practical applications and experimental systems by combining algorithm design, machine learning, and scalable cloud architectures.
+I'm a Computer Science student at the University of Waterloo passionate about software development, distributed systems, and databases. I work on systems programming and database internals.
 
 ---
 
-### What I’m passionate about  
-- Artificial intelligence and machine learning  
+### What I'm passionate about  
+- Database architecture and query optimization
 - Scalable distributed systems and cloud computing  
-- Concurrent and performant programming in Rust, Go, and Python  
-- Algorithm design and Database architecture  
+- Concurrent and performant programming in Rust, Go, and C++
+- Software development and systems programming
 
 ---
 
@@ -19,4 +19,3 @@ I’m a sophomore Computer Science student at the University of Waterloo passion
 ---
 
 Feel free to reach out if you want to chat about cool projects, new ideas, or just say hi!
-
